@@ -36,3 +36,31 @@ width: 15%;
 .escola-titulo{
     padding: 24px 0;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.estudante-imagem{
+    width: 80%;
+}
+.estudante-icone{
+    width: 20px;
+    padding: 4px 8px;
+}
+.estudante-div{
+    text-align: center;
+    
+}
+.estudante-título{
+    text-align: center;
+    padding: 50px 0 100px;
+    color: rgb(43, 41, 41);
+    font-size: 36px;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 16.66% 16.66% 16.66% 16.66% 16.66% 16.66%;
+}
+.estudante{
+    background-image: linear-gradient( #4EBFE9, #4EBFE9);
+    padding: 0 0 200px;
+}

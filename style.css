@@ -61,6 +61,13 @@ body{
     grid-template-columns: 16.66% 16.66% 16.66% 16.66% 16.66% 16.66%;
 }
 .estudante{
-    background-image: linear-gradient( #4EBFE9, #4EBFE9);
     padding: 0 0 200px;
+}
+.rodape{
+    background-color: black;
+    text-align: center;
+    padding: 10px 0;
+}
+.rodape-imagem{
+    width: 5%;
 }
